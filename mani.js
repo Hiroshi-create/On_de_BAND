@@ -6,6 +6,7 @@ export default function mani() {
       <div>mani</div>
       <div>aaaa</div>
       <div>aaaa</div>
+      <div>aaaa</div>
     </>
   )
 }
