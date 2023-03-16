@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function main() {
   return (
-    <div>main</div>
+    <>
+        <div>main</div>
+        <div>sab</div>
+    </>
   )
 }
